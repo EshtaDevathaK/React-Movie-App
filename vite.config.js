@@ -9,6 +9,6 @@ export default defineConfig({
     strictPort: true // Enforce the exact port
   },
   preview: {
-    allowedHosts: ["react-movie-app-ckuv.onrender.com"]
+    allowedHosts: ["react-movie-app-ogz5.onrender.com"]
   }
 })
